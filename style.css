@@ -1,0 +1,39 @@
+* {
+    background-color: pink;
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 90px;
+    text-align: center;
+    color: black;
+}
+
+.selections {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+button {
+    border: none
+}
+
+.results {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+#A {
+    text-align: left;
+    margin-left: auto;
+}
+
+#B {
+    text-align: right;
+    margin-right: auto;
+}
